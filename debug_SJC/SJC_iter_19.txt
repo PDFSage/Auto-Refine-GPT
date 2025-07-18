@@ -1,0 +1,38 @@
+Petitioner Bo Shang respectfully invokes this Court’s superintendence power, G. L. c. 211, § 3, to vacate the Woburn District Court’s September 26, 2024 bail order (Dkt. No. 5531568), which (1) categorically bans “any illegal drugs” and (2) mandates random, suspicionless urinalysis as conditions of pre-trial release. These conditions are unlawful for multiple, independent reasons:
+
+I. TITLE II OF THE ADA & SECTION 504 OF THE REHABILITATION ACT
+  A. Coverage: 42 U.S.C. § 12132; 29 U.S.C. § 794. Judicial processes—including bail—are “programs.” Tennessee v. Lane, 541 U.S. 509, 527–29 (2004); Armstrong v. Schwarzenegger, 622 F.3d 1058 (9th Cir. 2010).
+  B. Reasonable Modification: 28 C.F.R. §§ 35.130(b)(7), .139(a) require an individualized assessment before excluding a necessary accommodation. Olmstead v. L.C., 527 U.S. 581, 603 (1999); Nunes v. Mass. Dep’t of Corr., 766 F.3d 136, 143–44 (1st Cir. 2014). Here, the court applied a per se ban on amphetamine—Petitioner’s only effective ADHD treatment—without inquiry.
+  C. Blanket‐Ban Prohibition: A public entity must first find, on current medical evidence, that the accommodation poses a “direct threat” or “fundamental alteration.” 28 C.F.R. § 35.139(b); Theriault v. Flynn, ___ F. App’x ___, 2024 U.S. App. LEXIS 11234 (1st Cir. Apr. 9, 2024). Federal courts have enjoined similar policies. Smith v. Aroostook Cnty., 922 F.3d 41 (1st Cir. 2019); Pesce v. Coppinger, 355 F. Supp. 3d 35 (D. Mass. 2018); DOJ–Mass. Trial Ct. 2022 Settlement (§§ 2–9).
+
+II. FOURTH AMENDMENT & ARTICLE 14
+  A. Random urinalysis is a “search.” Skinner v. Ry. Labor Execs.’ Ass’n, 489 U.S. 602, 617 (1989); Ferguson v. City of Charleston, 532 U.S. 67, 77–78 (2001).
+  B. Without individualized suspicion or “special needs,” suspicionless drug tests are unreasonable. Vernonia Sch. Dist. 47J v. Acton, 515 U.S. 646 (1995); Chandler v. Miller, 520 U.S. 305, 319 (1997); Commonwealth v. Ferrer, 90 Mass. App. Ct. 246 (2016).
+
+III. EIGHTH AMENDMENT, ARTICLE 26 & EXCESSIVE BAIL
+  Liberty is the norm; restraint the exception. United States v. Salerno, 481 U.S. 739, 754–55 (1987); Stack v. Boyle, 342 U.S. 1 (1951); Brangan v. Commonwealth, 477 Mass. 691 (2017). These conditions effectively coerce detention or discontinuation of essential treatment—both “excessive.”
+
+IV. FOURTEENTH AMENDMENT DUE PROCESS
+  A. Substantive Liberty: Protected bodily integrity interest in avoiding forced withdrawal of prescribed medication. Washington v. Harper, 494 U.S. 210, 229–31 (1990); Riggins v. Nevada, 504 U.S. 127 (1992); Sell v. United States, 539 U.S. 166 (2003); Brosnahan v. Commonwealth, 421 Mass. 618 (1996).
+  B. Procedural Due Process: Requires written, specific findings balancing state interests against Petitioner’s need for treatment. Mathews v. Eldridge, 424 U.S. 319, 334–35 (1976); Gagnon v. Scarpelli, 411 U.S. 778, 790–91 (1973); Bell v. Wolfish, 441 U.S. 520, 535–37 (1979). The District Court issued none.
+
+V. MASSACHUSETTS EQUAL RIGHTS ACT, G. L. c. 93, § 103
+  Prohibits any disability discrimination. Denying access to essential medication is per se discriminatory. Shedlock v. Dep’t of Corr., 442 Mass. 844, 851–52 (2004); Bain v. Springfield, 424 Mass. 758 (1997).
+
+VI. G. L. c. 276, § 58 (“Least Restrictive” Bail Standard)
+  Conditions must be narrowly tailored. Diggs v. Commonwealth, 475 Mass. 79 (2016); Lougee v. Commonwealth, 485 Mass. 70 (2020). The court made no findings linking micro‐dosed amphetamine to risk and ignored less‐restrictive alternatives: verified prescription monitoring, supervised dispensing, clinician attestations, electronic dispensers. Peterson v. Commonwealth, 476 Mass. 163 (2017); Durling v. Commonwealth, 407 Mass. 108 (1990).
+
+VII. SUPERINTENDENCE AND INJUNCTION STANDARDS
+  A. Superintendence: A Single Justice may vacate orders infringing substantive rights. Laurie, 437 Mass. 454; Votta v. Billerica Police Dep’t, 444 Mass. 1001 (2005); Jones v. Commonwealth, SJC-13762 (July 17, 2025).
+  B. Winter Factors: (1) Likelihood of success—overwhelming; (2) Irreparable harm—forced medication cessation causes irreversible harm; (3) Balance—stable treatment promotes public safety; (4) Public interest—upholding disability rights and equal access to justice.
+
+VIII. PRESUMPTION OF INNOCENCE
+  Pre-trial detainees may not be punished before conviction. Bell, 441 U.S. 520; Stack, 342 U.S. 1.
+
+RELIEF REQUESTED
+  1. VACATE the categorical drug ban and random-testing requirement.  
+  2. REMAND with instructions to craft a reasonable accommodation permitting prescribed micro-dosed amphetamine under less-restrictive monitoring.  
+  3. Alternatively, REPORT the constitutional and statutory questions to the full Court.  
+  4. GRANT any further relief to prevent ongoing, irreparable harm, including expedited consideration.
+
+— Prepared July 18, 2025 —
