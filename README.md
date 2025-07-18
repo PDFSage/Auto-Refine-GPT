@@ -1,1 +1,1 @@
-Automate your GPT usage via the API!
+make it blatantly obvious to all readers at the to that Bo Shang agrees to follow all pretrail conditions and will follow all indefinately unless vacataed by a higher court. incorporate as much law and case law to strength argument as possible without losing core facts; for each cause or action or petiton, meet or surpass the legal requirements for a judge to grant it. make everything convincing to judges who read this as much as possible: 
