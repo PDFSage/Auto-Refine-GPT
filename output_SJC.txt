@@ -1,0 +1,11 @@
+To support the argument that the blanket prohibition on all "illegal drugs" and the mandate for random urinalysis as conditions of pre-trial release are unconstitutional and illegal due to the denial of reasonable accommodation for a documented disability, severe dopamine-deficit ADHD, it is important to reference relevant laws and case law.
+
+1. The Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act:
+- Title II of the ADA prohibits public entities from denying qualified individuals with disabilities the benefits of their services and programs. Blanket prohibitions on medication essential for managing disabilities violate this provision. (42 U.S.C. § 12132)
+- The ADA's integration mandate and corrections-specific rules require equal access to medication for individuals in custodial settings, which extends to non-custodial pre-trial supervision. (Tennessee v. Lane, 541 U.S. 509; 28 C.F.R. § 35.130(d), § 35.152(b)(2))
+- Federal courts, including the First Circuit, have consistently held that Title II applies to all phases of the criminal process, including bail, and categorical exclusions of disabled individuals without individualized analysis violate Title II. (Armstrong v. Schwarzenegger, 622 F.3d 1058; Pa. Dep’t of Corr. v. Yeskey, 524 U.S. 206; Theriault v. Flynn, 2024 U.S. App. LEXIS 11234; Nunes v. Mass. Dep’t of Corr., 766 F.3d 136)
+
+2. Massachusetts Equal Rights Act (MERA):
+- The MERA, under G. L. c. 93, § 103, guarantees freedom from disability discrimination by any entity. Denying access to necessary medication for a disability can be considered discriminatory under this act. (Shedlock v. Dep’t of Corr., 442 Mass. 844; Bain v. Springfield, 424 Mass. 758)
+
+By outlining the violations of federal and state laws protecting individuals with disabilities and demonstrating that case law supports the argument for providing reasonable accommodations for disabled individuals in the criminal justice system, the petitioner in this case is well-positioned to seek relief from the unconstitutional pre-trial release conditions imposed.

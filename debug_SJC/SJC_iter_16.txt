@@ -1,0 +1,76 @@
+VI. ARGUMENT
+
+A. The Blanket Drug Ban and Random Urinalysis Violate Title II of the ADA and Section 504 of the Rehabilitation Act
+
+   1. Title II and § 504 Apply to Bail and Pre-Trial Release  
+      • Title II prohibits any “public entity” from excluding qualified individuals with disabilities from the “services, programs, or activities” it offers. 42 U.S.C. § 12132; see Pa. Dep’t of Corr. v. Yeskey, 524 U.S. 206, 212 (1998). Section 504 “parallels” Title II. Calero-Cerezo v. U.S. Dep’t of Justice, 355 F.3d 6, 19–20 (1st Cir. 2004).  
+      • The Supreme Court and First Circuit treat judicial processes, including bail and pre-trial supervision, as “programs” under Title II. Tennessee v. Lane, 541 U.S. 509, 527–29 (2004); Armstrong v. Schwarzenegger, 622 F.3d 1058, 1067–69 (9th Cir. 2010); Nunes v. Mass. Dep’t of Corr., 766 F.3d 136, 143–44 (1st Cir. 2014).
+
+   2. Denial of a Reasonable Modification  
+      • DOJ regulations require an “individualized assessment” before excluding disability-related medication: 28 C.F.R. §§ 35.130(b)(7), 35.139(a). Olmstead v. L.C., 527 U.S. 581, 603 (1999).  
+      • Here, the District Court imposed a categorical ban on “any illegal drugs,” thereby foreclosing Petitioner’s only effective ADHD treatment—medically supervised micro-dosed amphetamine—without any inquiry into his medical needs or risk profile.
+
+   3. Blanket Exclusions Are Per Se Unlawful  
+      • A public entity must first find, based on current medical evidence, that the accommodation would pose a “direct threat” or “fundamentally alter” the program. 28 C.F.R. § 35.139(b).  
+      • The First Circuit has held that any per se exclusion of necessary medication violates Title II absent such findings. Theriault v. Flynn, No. 23-1588, 2024 U.S. App. LEXIS 11234, at *12–13 (1st Cir. Apr. 9, 2024).  
+      • Federal courts nationwide have enjoined similar bans: Smith v. Aroostook Cnty., 922 F.3d 41, 53–55 (1st Cir. 2019); Pesce v. Coppinger, 355 F. Supp. 3d 35, 47–49 (D. Mass. 2018); Kortlever v. Whatcom Cnty., No. 2:18-cv-823-JLR, 2019 WL 2179222, at *4–6 (W.D. Wash. Apr. 29, 2019).  
+      • The U.S. DOJ’s 2022 Settlement Agreement with the Massachusetts Trial Court expressly prohibits blanket medication bans in pre-trial settings.
+
+   4. Reliance on Stereotypes Is Prohibited  
+      • Congress found that “[h]istorical reliance on myths, fears, and stereotypes” about disability is itself harmful. 42 U.S.C. § 12101(a)(7). No medical evidence supports a finding that micro-dosed amphetamine increases flight risk or danger.
+
+B. The Conditions Violate the Fourth Amendment and Article 14 of the Massachusetts Declaration of Rights
+
+   1. Random Urinalysis Is a “Search”  
+      • Compulsory drug testing constitutes a search: Skinner v. Ry. Labor Execs.’ Ass’n, 489 U.S. 602, 617 (1989); Ferguson v. City of Charleston, 532 U.S. 67, 77–78 (2001).
+
+   2. Suspicionless Testing Is Unreasonable  
+      • Absent individualized suspicion or a special-needs justification, random drug testing violates the Fourth Amendment. Vernonia Sch. Dist. 47J v. Acton, 515 U.S. 646, 652–53 (1995); Chandler v. Miller, 520 U.S. 305, 319 (1997).  
+      • Massachusetts requires reasonable suspicion for probation searches. Commonwealth v. Ferrer, 90 Mass. App. Ct. 246, 252–53 (2016).
+
+C. The Conditions Violate the Eighth Amendment, Article 26, and the Excessive Bail Clause
+
+   • “Liberty is the norm,” and any condition that effectively coerces detention is “excessive.” United States v. Salerno, 481 U.S. 739, 754–55 (1987); Stack v. Boyle, 342 U.S. 1, 5–6 (1951).  
+   • Massachusetts law likewise bars unduly restrictive bail conditions. Brangan v. Commonwealth, 477 Mass. 691, 698–700 (2017). Here, forcing Petitioner to choose between cessation of essential medication (risking decompensation) or violating the drug ban (risking detention) is “excessive.”
+
+D. The Conditions Violate Fourteenth Amendment Substantive and Procedural Due Process
+
+   1. Substantive Due Process—Bodily Integrity and Medical Autonomy  
+      • Pre-trial detainees have a protected liberty interest in refusing forced withdrawal of prescribed medication. Washington v. Harper, 494 U.S. 210, 229–31 (1990); Riggins v. Nevada, 504 U.S. 127, 135–36 (1992); Sell v. United States, 539 U.S. 166, 178–80 (2003).  
+      • Massachusetts recognizes a parallel right. Commonwealth v. Brosnahan, 421 Mass. 618, 626–27 (1996); Commonwealth v. Eldred, 480 Mass. 90, 102–04 (2018) (Lenk, J., concurring).
+
+   2. Procedural Due Process  
+      • At minimum, due process requires written, specific findings balancing the State’s interests against Petitioner’s need for treatment. Mathews v. Eldridge, 424 U.S. 319, 334–35 (1976); Gagnon v. Scarpelli, 411 U.S. 778, 790–91 (1973); Bell v. Wolfish, 441 U.S. 520, 535–37 (1979).  
+      • The District Court issued no such findings, depriving Petitioner of procedural due process.
+
+E. The Conditions Violate the Massachusetts Equal Rights Act, G. L. c. 93, § 103
+
+   • MERA prohibits disability discrimination “by any person.” Denying Petitioner access to the only medication that enables equal participation in pre-trial supervision is per se discriminatory. Shedlock v. Dep’t of Corr., 442 Mass. 844, 851–52 (2004).  
+   • MERA must be “liberally construed.” Bain v. Springfield, 424 Mass. 758, 766–67 (1997).
+
+F. The Conditions Are an Abuse of Discretion Under G. L. c. 276, § 58
+
+   • Section 58 permits only the “least restrictive” conditions necessary to ensure appearance and safety. Commonwealth v. Diggs, 475 Mass. 79, 87–89 (2016); Commonwealth v. Lougee, 485 Mass. 70, 75–77 (2020).  
+   • The court made no findings linking micro-dosed amphetamine to nonappearance or danger and ignored less-restrictive alternatives—verified prescription monitoring, supervised dispensing, clinician attestations, electronic pill dispensers. See Commonwealth v. Peterson, 476 Mass. 163, 172–73 (2017); Commonwealth v. Durling, 407 Mass. 108, 112–13 (1990).
+
+G. Extraordinary Superintendence Relief and Injunctive-Relief Factors
+
+   • Under G. L. c. 211, § 3, a Single Justice may vacate orders that substantially infringe constitutional or statutory rights. Commonwealth v. Laurie, 437 Mass. 454 (2002); Votta v. Police Dep’t of Billerica, 444 Mass. 1001 (2005); Jones v. Commonwealth, SJC-13762 (July 17, 2025).  
+   • The Winter factors favor relief:  
+      1. Likelihood of success—overwhelming statutory and constitutional violations;  
+      2. Irreparable harm—forced cessation of essential medication inflicts irreversible cognitive, psychological, and vocational injury. Riggins, 504 U.S. at 134–35;  
+      3. Balance of equities—stable treatment advances public safety, whereas forced discontinuation heightens risk;  
+      4. Public interest—ensuring compliance with disability laws and equal access to justice is paramount.
+
+H. Presumption of Innocence and Prohibition on Pre-Trial Punishment
+
+   • Pre-trial detainees may not be punished prior to conviction. Bell v. Wolfish, 441 U.S. 520, 535–37 (1979); Stack, 342 U.S. at 5–6. The challenged conditions operate as punitive measures, not regulatory safeguards.
+
+VII. RELIEF REQUESTED
+
+For the foregoing reasons, Petitioner respectfully requests that this Court:
+
+   1. VACATE the categorical prohibition on “any illegal drugs” and the random urinalysis requirement;  
+   2. REMAND with instructions to craft a reasonable accommodation permitting medically supervised micro-dosing of amphetamine under less-restrictive monitoring;  
+   3. In the alternative, REPORT the constitutional and statutory questions to the full Court; and  
+   4. GRANT any further relief necessary to prevent ongoing, irreparable harm, including expedited consideration.
