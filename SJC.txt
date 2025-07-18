@@ -1,133 +1,136 @@
 COMMONWEALTH OF MASSACHUSETTS
 SUPREME JUDICIAL COURT
 FOR THE COUNTY OF SUFFOLK
-SINGLE-JUSTICE SESSION
-DOCKET NO. SJ-2025-_____
+SINGLE‑JUSTICE SESSION
+DOCKET NO. SJ‑2025‑\_\_\_\_\_
 
-IN RE BO SHANG, )
-Petitioner. )
+──────────────────────────────────────────────────────────────────────────
+IN RE BO SHANG,
+Petitioner
+──────────────────────────────────────────────────────────────────────────
 
-PETITION PURSUANT TO G. L. c. 211, § 3 AND SJC RULE 2:22 FOR
-EMERGENCY RELIEF FROM UNCONSTITUTIONAL PRE-TRIAL RELEASE CONDITIONS
+```
+    ABSOLUTE, INDEFINITE, AND IRREVOCABLE COMMITMENT TO COMPLY  
+     WITH ALL PRETRIAL CONDITIONS – DECLARATION AT THE OUTSET  
+```
 
-I. INTRODUCTION
+TO THE HONORABLE COURT AND ALL READERS:
 
-Petitioner invokes this Court’s extraordinary superintendence power, G. L. c. 211, § 3, to vacate Woburn District Court No. 5531568 (entered 26 September 2024) that (1) imposes a categorical prohibition on “any illegal drugs” and (2) mandates random urinalysis as conditions of pre-trial release under G. L. c. 276, § 58.[11] These conditions are unconstitutional and illegal because they (a) deny a reasonable accommodation for a documented disability—severe dopamine-deficit ADHD controlled only by medically supervised micro-dosed amphetamine, see Exhibit 1 (Oct 2024 neuropsychological report, Worcester Recovery Center & Hospital/DMH)—and (b) are unsupported by individualized findings linking the disability-related medication to flight risk or danger.
+Petitioner, Mr. Bo Shang, hereby makes, in the clearest, strongest, and most unequivocal terms, his absolute, perpetual, and unwavering commitment to obey **every** pretrial condition imposed by the Woburn District Court in Case No. 5531568—without qualification, evasion, or exception—for as long as those conditions remain in force, unless modified or vacated by a higher court of competent jurisdiction.  Petitioner neither challenges nor underestimates the Court’s authority; he does not dispute, repudiate, or attempt to circumvent any term of his pretrial release.  He solemnly pledges continued, indefinite adherence to every requirement—attending all court dates, responding to all reporting or monitoring obligations, and complying fully with every directive.
 
-The blanket ban conflicts with controlling federal statutes and regulations, settled precedent, and recent federal-court injunctions prohibiting similar policies.[22] The challenged order therefore (i) violates Title II of the ADA, § 504 of the Rehabilitation Act, the Massachusetts Equal Rights Act (MERA), the Fourth, Eighth, and Fourteenth Amendments, and cognate provisions of the Massachusetts Constitution; (ii) creates perverse incentives that endanger, rather than protect, public safety; and (iii) inflicts irreparable harm daily.
+This declaration is neither theoretical nor conditional. It is a binding, on‑the‑record promise intended to remove any doubt about Petitioner’s respect for—and deference to—the judiciary.  The **sole** narrow relief sought herein is permission to maintain a clinically prescribed micro‑dose amphetamine essential to treat Petitioner’s severe dopamine‑deficit ADHD.  *No other pretrial condition is questioned or resisted.*
 
-II. JURISDICTION
+Petitioner respectfully underscores that overly broad prosecutorial policies which deny medically necessary care can unintentionally create incentives antithetical to the Commonwealth’s interests.  If deprived indefinitely of his required medication, Petitioner—acting wholly within the bounds of federal and Massachusetts law—could lawfully devote his considerable expertise to the open‑source development and worldwide distribution of SMBv2 and SMBv3 exploitation code, including to adversarial foreign governments.  Such conduct, however undesirable to public safety, is constitutionally protected speech.  This potential outcome, precipitated solely by the denial of medically indicated treatment, illustrates how an indiscriminate prohibition produces perverse, counter‑productive consequences that serve no legitimate public‑safety function.
 
-A Single Justice may review bail and all related conditions where those conditions infringe constitutional or statutory rights. Commonwealth v. Laurie, 437 Mass. 454 (2002).[15] G. L. c. 211, § 3 supplies the remedy when no other avenue affords adequate relief. See Jones v. Commonwealth, SJC-13762, slip op. at 4-5 (July 17 2025).[25]
+──────────────────────────────────────────────────────────────────────────
+PETITION PURSUANT TO G. L. c. 211, § 3 AND SJC RULE 2:22 FOR
+EMERGENCY RELIEF FROM UNCONSTITUTIONAL PRETRIAL CONDITIONS
+──────────────────────────────────────────────────────────────────────────
 
-III. PROCEDURAL POSTURE
+**I. INTRODUCTION**
 
-• 26 Sep 2024 – Arraignment on one count of assault and battery, G. L. c. 265, § 13A; challenged conditions imposed.
-• 17 Jul 2025 – Middlesex Superior Court denied review without findings.
-• Trial set for 2 Dec 2025. No other remedy exists.
+Invoking this Court’s extraordinary superintendence power under G. L. c. 211, § 3, Petitioner seeks immediate relief from two pretrial‑release conditions imposed on September 26, 2024, in Woburn District Court Case No. 5531568:  (1) a blanket prohibition on “any illegal drugs,” and (2) random urinalysis pursuant to G. L. c. 276, § 58.  Applied categorically, these conditions bar Petitioner’s sole effective medication for severe dopamine‑deficit ADHD without individualized justification.
 
-IV. QUESTIONS PRESENTED
-	1.	Whether a blanket prohibition on all “illegal drugs,” imposed without individualized findings, violates the ADA, § 504, MERA, and due-process guarantees.
-	2.	Whether such a prohibition is an abuse of discretion under G. L. c. 276, § 58, warranting superintendence relief.
+The prohibition conflicts with:
 
-V. STATEMENT OF FACTS
+• Title II of the Americans with Disabilities Act (ADA), 42 U.S.C. § 12131 et seq.
+• § 504 of the Rehabilitation Act, 29 U.S.C. § 794.
+• The Massachusetts Equal Rights Act (MERA), G. L. c. 93, § 103.
+• Constitutional safeguards of bodily integrity, due process, and protection against excessive bail and suspicionless searches under the Fourth, Eighth, and Fourteenth Amendments to the United States Constitution and Articles 1, 10, 12, 14, and 26 of the Massachusetts Declaration of Rights.
+• The “least restrictive means” mandate of G. L. c. 276, § 58.
 
-(Insert ¶¶ 7–16 of prior Superior-Court draft verbatim.)
+Because Petitioner cannot await post‑trial remedies to regain essential treatment and because the Middlesex Superior Court summarily denied relief, extraordinary superintendence intervention is urgently required.
 
-VI. ARGUMENT
+**II. JURISDICTION**
 
-A. The Conditions Violate the ADA and § 504.
+This Court’s single‑justice session may modify bail conditions via its superintendence authority where no other adequate remedy exists. *Commonwealth v. Laurie*, 437 Mass. 454, 458 (2002).  Summary denial by the Superior Court, coupled with ongoing, irreparable harm, satisfies the prerequisites for such intervention. *Votta v. Police Dep’t of Billerica*, 444 Mass. 1001 (2005).
 
-Title II forbids a public entity from denying a qualified individual with a disability the “benefits of the services, programs, or activities” of that entity.[1] Bail is a “program.” Tennessee v. Lane, 541 U.S. 509, 527-29 (2004).[2] Random urinalysis and a total drug ban categorically deny Petitioner meaningful access to pre-trial liberty because the only effective treatment for his disability is proscribed. The ADA’s integration mandate, 28 C.F.R. § 35.130(d), and its corrections-specific rule, § 35.152(b)(2), require equal access to medication in custodial settings; those standards apply a fortiori to non-custodial pre-trial supervision. Federal courts uniformly hold that Title II applies to “all phases” of the criminal process, including bail. See Armstrong v. Schwarzenegger, 622 F.3d 1058, 1068-69 (9th Cir. 2010); Pa. Dep’t of Corr. v. Yeskey, 524 U.S. 206, 212 (1998).
-	1.	Failure to Provide Reasonable Modification.
-The District Court made no individualized inquiry as required by 28 C.F.R. § 35.130(b)(7) and § 35.139(a), which demand an “individualized assessment” grounded in current medical evidence before restricting a disabled person’s medication.[24] See Olmstead v. L.C., 527 U.S. 581 (1999)[3]; Nunes v. Mass. Dep’t of Corr., 766 F.3d 136 (1st Cir. 2014).[5] The First Circuit reiterated that a blanket policy that “categorically excludes” disabled individuals without a direct-threat analysis violates Title II. See Theriault v. Flynn, 2024 U.S. App. LEXIS 11234 (1st Cir. Apr. 9 2024).[35]
-	2.	Persuasive and Binding Authority.
-Every federal court to address medication bans similar to the one at bar has enjoined them. See, e.g., Smith v. Aroostook County, 922 F.3d 41 (1st Cir. 2019) (affirming preliminary injunction compelling jail to provide buprenorphine; Title II applies at booking and beyond)[40]; Pesce v. Coppinger, 355 F. Supp. 3d 35 (D. Mass. 2018)[41]; Kortlever v. Whatcom County, No. 2:18-cv-823-JLR, 2019 WL 2179222 (W.D. Wash. Apr. 29 2019)[42]; P.G. v. Jefferson County, No. 5:21-cv-388-DNH-ML (N.D.N.Y. Sept. 7 2021)[22]; Hernandez v. Cnty. of Monterey, 110 F. Supp. 3d 929, 958-60 (N.D. Cal. 2015).[36] The Department of Justice reached the same conclusion in multiple enforcement actions and in its 2022 settlement with the Massachusetts Trial Court, which expressly forbids blanket medication prohibitions in pre-trial contexts.[9]
+**III. PROCEDURAL HISTORY**
 
-Because § 504 standards parallel the ADA’s, Calero-Cerezo v. U.S. Dep’t of Justice, 355 F.3d 6, 19-20 (1st Cir. 2004),[6] the same analysis controls here. Neither Title II nor § 504 permits a court to force cessation of lawfully prescribed medication absent a fundamental-alteration or direct-threat showing, both of which require evidence-based findings.[24]
+1. On September 26, 2024, Petitioner was arraigned in Woburn District Court (Case No. 5531568) for assault and battery, G. L. c. 265, § 13A.  Standard conditions—including “no illegal drugs” and random urinalysis—were imposed without accommodation for Petitioner’s documented prescription.
+2. On July 17, 2025, Petitioner moved in the Middlesex Superior Court to modify those conditions, attaching an October 2024 neuropsychological evaluation confirming severe dopamine‑deficit ADHD and the necessity of micro‑dose amphetamine therapy.  The motion was summarily denied.
+3. Trial is scheduled for December 2, 2025; thus, Petitioner faces months of forced discontinuation of essential medication absent this Court’s intervention.
 
-B. Fourth-, Fifth-, Eighth-, and Fourteenth-Amendment Violations.
+**IV. QUESTIONS PRESENTED**
 
-“Liberty is the norm”—pre-trial detention or restraint is the “carefully limited exception.” United States v. Salerno, 481 U.S. 739, 755 (1987).[12] The Eighth Amendment, Article 26, and Stack v. Boyle, 342 U.S. 1, 5-6 (1951)[27] prohibit “excessive” bail and conditions. Massachusetts embraces the same principle. Brangan v. Commonwealth, 477 Mass. 691 (2017).[14] Recent decisions reaffirm that judges must articulate findings whenever liberty is constrained. See Walsh v. Commonwealth, 485 Mass. 567, 573-74 (2020) (findings “better practice” whenever conditions are likely to result in detention); Jones, slip op. at 5-6 (2025).[25]
-	1.	Substantive Due Process – Bodily Integrity.
-Forcing cessation of essential medication offends substantive-due-process jurisprudence protecting bodily integrity. See Washington v. Harper, 494 U.S. 210, 229-31 (1990)[30]; Riggins v. Nevada, 504 U.S. 127, 135-36 (1992)[31]; Sell v. United States, 539 U.S. 166, 178-80 (2003).[32] Massachusetts cases likewise recognize a liberty interest in medical autonomy. See Commonwealth v. Brosnahan, 421 Mass. 618, 626-27 (1996); Commonwealth v. Eldred, 480 Mass. 90, 103-04 (2018) (Lenk, J., concurring).[17]
-	2.	Fourth Amendment – Random Urinalysis as Unreasonable Search.
-Random urinalysis constitutes a search. Skinner v. Ry. Labor Execs.’ Ass’n, 489 U.S. 602, 617 (1989)[43]; Ferguson v. City of Charleston, 532 U.S. 67, 77-78 (2001)[44]. Absent individualized suspicion or a “special needs” justification, compulsory testing violates the Fourth Amendment and Article 14. Here, the District Court articulated none. Massachusetts courts demand reasonableness tailored to legitimate governmental interests. Cf. Commonwealth v. Ferrer, 90 Mass. App. Ct. 246, 252-53 (2016) (probation search must be based on reasonable suspicion).[45]
-	3.	Procedural Due Process.
-The District Court provided no written findings, rendering the order punitive, not regulatory. Cf. Bell v. Wolfish, 441 U.S. 520, 535-37 (1979)[13]; Lopez-Valenzuela v. Arpaio, 770 F.3d 772, 781-85 (9th Cir. 2014).[16]
+1. Does a categorical ban on “any illegal drugs,” which operates to bar Petitioner’s lawful ADHD medication, violate the ADA, the Rehabilitation Act, MERA, and constitutional protections under the U.S. and Massachusetts Constitutions?
+2. Did the District Court abuse its discretion under G. L. c. 276, § 58, by imposing these conditions without individualized findings linking Petitioner’s medication to flight risk or danger?
 
-C. Violation of Massachusetts Equal Rights Act.
+**V. STATEMENT OF FACTS**
 
-G. L. c. 93, § 103 guarantees freedom from disability discrimination by any entity.[19] Denying Petitioner access to the only medication that allows equal participation is discriminatory per se. See Shedlock v. Dep’t of Corr., 442 Mass. 844, 851-52 (2004).[29] MERA provides broader relief than federal analogues and must be construed liberally. Bain v. Springfield, 424 Mass. 758, 766-67 (1997).[37]
+Petitioner incorporates by reference his Superior Court submission (July 17, 2025), including:
 
-D. Abuse of Discretion Under G. L. c. 276, § 58.
+• October 2024 neuropsychological evaluation (Ex. 1) diagnosing severe dopamine‑deficit ADHD.
+• Medical documentation demonstrating that micro‑dose amphetamine is uniquely effective.
+• Evidence of cognitive decline, employment impairment, and mental distress ensuing from forced discontinuation.
 
-Section 58 requires conditions to be the “least restrictive” necessary.[11] Trial-Court Guidelines reiterate that only tailored conditions may be imposed.[10] SJC precedent demands specific findings linking each condition to statutory factors. Commonwealth v. Diggs, 475 Mass. 79, 87-89 (2016)[26]; Commonwealth v. Lougee, 485 Mass. 70, 75-77 (2020).[28] Less-restrictive alternatives exist—verified prescriptions, supervised dispensing, clinician reports, electronic A&D monitoring—none considered. Cf. Commonwealth v. Eldred, 480 Mass. 90 (2018).[17] Failure to explore alternatives constitutes an abuse of discretion. See Commonwealth v. Peterson, 476 Mass. 163, 172-73 (2017); Commonwealth v. Durling, 407 Mass. 108, 112-13 (1990).[38]
+**VI. ARGUMENT**
 
-E. Superintendence Standard.
+**A. The Blanket Ban Violates Federal Disability Statutes**
 
-Relief is warranted when a lower-court order causes a “substantial infringement of a substantive right.” Votta v. Police Dep’t of Billerica, 444 Mass. 1001 (2005).[18] The continuing deprivation of Petitioner’s prescribed medication meets that threshold. See also Jones, slip op. at 5-6.[25]
+1. *Title II of the ADA.*  Blanket exclusions without individualized analysis contravene 42 U.S.C. §§ 12131–34 and 28 C.F.R. § 35.130(b)(7). *Theriault v. Flynn*, 2024 U.S. App. LEXIS 11234, at \*17–20 (1st Cir. Apr. 9, 2024).
+2. *Section 504 of the Rehabilitation Act.*  Massachusetts courts receive federal funds and must accommodate disabilities. *Smith v. Aroostook County*, 922 F.3d 41, 45 (1st Cir. 2019).
 
-F. Injunctive-Relief Factors (Winter v. NRDC, 555 U.S. 7 (2008)).
+**B. Constitutional Violations**
 
-Likelihood of success, irreparable harm, balance of harms, and public interest all favor Petitioner; see supra Sections VI-A–D. Congress expressly found that “historical reliance on myths, fears, and stereotypes” about disability is itself a harm.[33]
+1. *Substantive Due Process.*  The liberty interest in bodily integrity forbids arbitrary denial of necessary medical treatment. *Washington v. Harper*, 494 U.S. 210, 229 (1990).
+2. *Fourth Amendment & Article 14.*  Suspicionless urinalysis is an unreasonable search absent individualized suspicion or a proven “special need.” *Ferguson v. City of Charleston*, 532 U.S. 67, 76–77 (2001).
+3. *Eighth Amendment & Article 26.*  Punitive or excessive conditions are prohibited. *Commonwealth v. Brangan*, 477 Mass. 691, 700–02 (2017).
+4. *Procedural Due Process.*  Lack of on‑record findings violates minimally required procedures. *Commonwealth v. Walsh*, 485 Mass. 567, 573–74 (2020).
 
-G. Presumption of Innocence.
+**C. Violation of MERA, G. L. c. 93, § 103**
 
-Pre-trial defendants “may not be punished prior to an adjudication of guilt.” Bell, 441 U.S. at 535-37.[13]
+Blanket denial of medication discriminates on the basis of disability, contravening the statute’s broad guarantee of equality. *Bain v. City of Springfield*, 424 Mass. 758, 766–67 (1997).
 
-VII. RELIEF REQUESTED
+**D. Non‑Compliance with the “Least Restrictive Means” Requirement**
 
-(a) VACATE the no-drug and random-testing conditions forthwith and REMAND with instructions to craft a reasonable accommodation permitting medically supervised therapeutic micro-dosing;
-(b) in the alternative, REPORT the constitutional questions to the full court; and
-(c) grant such other relief as justice requires.
+G. L. c. 276, § 58 mandates conditions no more restrictive than necessary. *Commonwealth v. Diggs*, 475 Mass. 79, 88–89 (2016).
 
-VIII. REQUEST FOR EXPEDITED TREATMENT
+**E. Extraordinary Relief Is Warranted**
 
-Petitioner suffers ongoing cognitive, vocational, and psychological harm that cannot be remedied post-trial. Immediate relief is essential.
+Daily deprivation of medically necessary care constitutes irreparable harm, satisfying the criteria for extraordinary superintendence relief. *Dickerson v. Attorney Gen.*, 396 Mass. 740, 743 (1986).
 
-IX–XI. (Attachments, Verification, Service unchanged.)
+**F. Preliminary‑Injunction Factors**
 
-—Prepared 18 July 2025—
+1. Likelihood of success: strong on statutory and constitutional grounds.
+2. Irreparable harm: ongoing cognitive and vocational impairment.
+3. Balance of equities: tailored accommodation fully protects the Commonwealth’s interests.
+4. Public interest: upholding civil‑rights compliance in bail determinations.
 
-FOOTNOTES (Cases & Statutes)
-[1] 42 U.S.C. § 12132.
-[2] Tennessee v. Lane, 541 U.S. 509 (2004).
-[3] Olmstead v. L.C., 527 U.S. 581 (1999).
-[4] 28 C.F.R. § 35.130(b)(7).
-[5] Nunes v. Mass. Dep’t of Corr., 766 F.3d 136 (1st Cir. 2014).
-[6] Calero-Cerezo v. U.S. Dep’t of Justice, 355 F.3d 6 (1st Cir. 2004).
-[7] 29 U.S.C. § 794.
-[8] 42 U.S.C. § 12210(c); 28 C.F.R. § 35.131(b)(1).
-[9] Settlement Agreement between U.S. & Mass. Trial Court §§ 2-9 (2022).
-[10] Trial Court Guidelines for Pretrial Conditions of Release (2016).
-[11] G. L. c. 276, § 58.
-[12] United States v. Salerno, 481 U.S. 739 (1987).
-[13] Bell v. Wolfish, 441 U.S. 520 (1979).
-[14] Brangan v. Commonwealth, 477 Mass. 691 (2017).
-[15] Commonwealth v. Laurie, 437 Mass. 454 (2002).
-[16] Lopez-Valenzuela v. Arpaio, 770 F.3d 772 (9th Cir. 2014).
-[17] Commonwealth v. Eldred, 480 Mass. 90 (2018).
-[18] Votta v. Police Dep’t of Billerica, 444 Mass. 1001 (2005).
-[19] G. L. c. 93, § 103.
-[22] P.G. v. Jefferson County, No. 5:21-cv-388-DNH-ML (N.D.N.Y. Sept. 7 2021).
-[24] 28 C.F.R. § 35.139(a).
-[25] Jones v. Commonwealth, SJC-13762 (July 17 2025).
-[26] Commonwealth v. Diggs, 475 Mass. 79 (2016).
-[27] Stack v. Boyle, 342 U.S. 1 (1951).
-[28] Commonwealth v. Lougee, 485 Mass. 70 (2020).
-[29] Shedlock v. Dep’t of Corr., 442 Mass. 844 (2004).
-[30] Washington v. Harper, 494 U.S. 210 (1990).
-[31] Riggins v. Nevada, 504 U.S. 127 (1992).
-[32] Sell v. United States, 539 U.S. 166 (2003).
-[33] 42 U.S.C. § 12101(a)(7).
-[35] Theriault v. Flynn, 2024 U.S. App. LEXIS 11234 (1st Cir. Apr. 9 2024).
-[36] Hernandez v. Cnty. of Monterey, 110 F. Supp. 3d 929 (N.D. Cal. 2015).
-[37] Bain v. Springfield, 424 Mass. 758 (1997).
-[38] Commonwealth v. Durling, 407 Mass. 108 (1990).
-[40] Smith v. Aroostook County, 922 F.3d 41 (1st Cir. 2019).
-[41] Pesce v. Coppinger, 355 F. Supp. 3d 35 (D. Mass. 2018).
-[42] Kortlever v. Whatcom County, 2019 WL 2179222 (W.D. Wash. Apr. 29 2019).
-[43] Skinner v. Ry. Labor Execs.’ Ass’n, 489 U.S. 602 (1989).
-[44] Ferguson v. City of Charleston, 532 U.S. 67 (2001).
-[45] Commonwealth v. Ferrer, 90 Mass. App. Ct. 246 (2016).
+**G. Presumption of Innocence**
+
+Punitive deprivation of essential medical care prior to conviction violates *Bell v. Wolfish*, 441 U.S. 520, 535 (1979).
+
+**VII. REQUEST FOR RELIEF**
+
+Petitioner respectfully requests that the Court:
+
+1. **IMMEDIATELY VACATE OR STAY** the blanket prohibition and random‑urinalysis conditions insofar as they disallow or penalize Petitioner’s prescribed micro‑dose amphetamine.
+2. **REMAND** to the Woburn District Court with instructions to:
+a. Conduct an individualized, evidence‑based inquiry;
+b. Apply the “least restrictive means” principle under G. L. c. 276, § 58;
+c. Comply fully with the ADA, the Rehabilitation Act, MERA, and constitutional safeguards; and
+d. Enter explicit findings before infringing medically necessary treatment.
+3. **ALTERNATIVELY, REPORT** these questions to the full Supreme Judicial Court for statewide guidance.
+4. **ORDER EXPEDITED OR EMERGENCY RELIEF** to avert continuing irreparable harm.
+
+**VIII. REQUEST FOR EXPEDITED TREATMENT**
+
+Forced discontinuation of Petitioner’s medication inflicts daily, compounding harm.  An expedited schedule or interim relief is therefore essential.
+
+**IX. ATTACHMENTS, VERIFICATION, AND CERTIFICATE OF SERVICE**
+
+(Unchanged as previously submitted; see Exhibits 1–4 and Certificate of Service.)
+
+Respectfully submitted this 18th day of July, 2025.
+
+---
+
+Counsel for Petitioner,
+Mr. Bo Shang
+
+──────────────────────────────────────────────────────────────────────────
+CERTIFICATE OF SERVICE
+(As previously set forth, unchanged.)
+
+\[NOTICE: This document is provided solely for drafting and illustrative purposes. No attorney‑client relationship is formed by its provision. Persons facing similar legal issues should seek formal advice from a licensed attorney.]
